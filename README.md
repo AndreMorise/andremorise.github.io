@@ -1,2 +1,3 @@
 # andremorise.github.io
-My hosted projects
+Go to my gh-pages branch for my Hosted Projects
+In the future, you can view them at https://andremorise.com
