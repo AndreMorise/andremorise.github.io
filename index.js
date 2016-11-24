@@ -1,7 +1,4 @@
-// slides down and fades in
+// fades in
 $(document).ready(function() {
-    $(".card").animate({
-        opacity: "1",
-        top: "+=10%"
-    }, 800);
+    $(".card").hide().fadeTo("slow", 1);
 });
