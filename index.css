@@ -4,15 +4,6 @@ body {
     color: #5CB85C;
 }
 
-div {
-    background-color: #FFFFFF;
-    font-size: 3em;
-    text-align: center;
-    border-radius: 4px;
-    padding: 40px;
-    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
-}
-
 a {
     font-family: 'Source Code Pro';
     letter-spacing: 2px;
