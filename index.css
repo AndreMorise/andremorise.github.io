@@ -9,7 +9,7 @@ a {
     letter-spacing: 2px;
 }
 
-.center {
+.card {
     position: absolute;
     opacity: 0;
     top: 40%;
