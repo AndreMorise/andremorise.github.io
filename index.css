@@ -4,23 +4,30 @@ body {
     color: #5CB85C;
 }
 
-/*button*/
+div {
+    background-color: #FFFFFF;
+    font-size: 3em;
+    text-align: center;
+    border-radius: 4px;
+    padding: 40px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
 a {
     font-family: 'Source Code Pro';
     letter-spacing: 2px;
 }
 
-/*center card*/
 .card {
-  position: absolute;
-  opacity: 0;
-  top: 40%;
-  left: 50%;
-  transform: translate(-50%,-50%);
-  background-color: #FFFFFF;
-  font-size: 3em;
-  text-align: center;
-  border-radius: 4px;
-  padding: 40px;
-  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    position: absolute;
+    opacity: 0;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: #FFFFFF;
+    font-size: 3em;
+    text-align: center;
+    border-radius: 4px;
+    padding: 40px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
