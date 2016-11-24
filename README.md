@@ -48,7 +48,4 @@ In the future, you can view them at https://andremorise.com
 - [ ] Manage a Book Trading Club | [*Not Started*] [index]
 - [ ] Pinterest Clone | [*Not Started*] [index]
 
-
-
-
 [index]: https://andremorise.github.io/index.html
