@@ -12,7 +12,7 @@ a {
 .card {
     position: absolute;
     opacity: 0;
-    top: 40%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
     background-color: #FFFFFF;
