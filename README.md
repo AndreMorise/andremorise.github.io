@@ -25,14 +25,14 @@ In the future, you can view them at https://andremorise.com
 - [ ] Visualize Data with a Choropleth Map | [*Not Started*]
 - [ ] Visualize Data with a Treemap Diagram | [*Not Started*]
 
-### :large_blue_diamond: API and Microservice Projects
+### :blue_book: API and Microservice Projects
 - [ ] Timestamp Microservice | [*Not Started*]
 - [ ] Request Header Parser Microservice | [*Not Started*]
 - [ ] URL Shortener Microservice | [*Not Started*]
 - [ ] Exercise Tracker | [*Not Started*]
 - [ ] File Metadata Microservice | [*Not Started*]
 
-### :large_blue_diamond: Information Security and Quality Assurance Projects
+### :blue_book: Information Security and Quality Assurance Projects
 - [ ] Metric-Imperial Converter | [*Not Started*]
 - [ ] Issue Tracker | [*Not Started*]
 - [ ] Personal Library | [*Not Started*]
