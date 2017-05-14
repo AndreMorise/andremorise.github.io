@@ -5,7 +5,7 @@ In the future, you can view them at https://andremorise.com
 # [Index]
 
 ## :large_blue_diamond: Applied Responsive Web Design Projects
-- [ ] Tribute Page | [*Soon*]
+- [x] Tribute Page | [*Complete*](https://andremorise.github.io/fcc-projects/Tribute_Page/tribute.html "Tribute Page")
 - [ ] Survey Form | [*Not Started*]
 - [ ] Product Landing Page | [*Not Started*]
 - [ ] Technical Documentation Page | [*Not Started*]
@@ -40,3 +40,4 @@ In the future, you can view them at https://andremorise.com
 - [ ] Anonymous Message Board | [*Not Started*]
 
 [index]: https://andremorise.github.io/index.html
+[Tribute Page]: 
