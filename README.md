@@ -4,21 +4,21 @@ In the future, you can view them at https://andremorise.com
 
 # [Index](https://andremorise.github.io/ "andremorise.github.io") 
 
-### :large_blue_diamond: Applied Responsive Web Design Projects
+### :blue_book: Applied Responsive Web Design Projects
 - [x] Tribute Page | [*Complete*](https://andremorise.github.io/fcc-tribute-page "Tribute Page | 5-13-2017")
 - [ ] Survey Form | [*Soon*]
 - [ ] Product Landing Page | [*Not Started*]
 - [ ] Technical Documentation Page | [*Not Started*]
 - [ ] Personal Portfolio Webpage | [*Not Started*]
 
-### :large_blue_diamond: Front End Frameworks Projects
+### :blue_book: Front End Frameworks Projects
 - [ ] Random Quote Machine | [*Not Started*]
 - [ ] Markdown Previewer | [*Not Started*]
 - [ ] Drum Machine | [*Not Started*]
 - [ ] JavaScript Calculator | [*Not Started*]
 - [ ] Pomodoro Clock | [*Not Started*]
 
-### :large_blue_diamond: Data Visualization Projects
+### :blue_book: Data Visualization Projects
 - [ ] Visualize Data with a Bar Chart | [*Not Started*]
 - [ ] Visualize Data with a Scatterplot Graph | [*Not Started*]
 - [ ] Visualize Data with a Heat Map | [*Not Started*]
