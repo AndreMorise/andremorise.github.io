@@ -1,8 +1,6 @@
-# andremorise.github.io
+# [andremorise.github.io](https://andremorise.github.io/ "andremorise.github.io")
 My Hosted Projects.
 In the future, you can view them at https://andremorise.com
-
-# [Index](https://andremorise.github.io/ "andremorise.github.io") 
 
 ### :blue_book: Applied Responsive Web Design Projects
 - [x] Tribute Page | [*Complete*](https://andremorise.github.io/fcc-tribute-page "Tribute Page | 5-13-2017")
