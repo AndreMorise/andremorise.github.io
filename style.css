@@ -1,6 +1,8 @@
 body {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
   background-color: #eee;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #5CB85C;
 }
 
@@ -10,7 +12,9 @@ header {
 
 main,
 .cards,
-.card {
+.card,
+.project,
+.description {
   display: -webkit-flex;
   display: flex;
   justify-content: center;
@@ -26,7 +30,8 @@ main, section {
 
 section {
   min-width: 200px;
-  width: 15%;
+  text-align: center;
+  width: 85%;
 }
 
 section,
@@ -35,23 +40,23 @@ section,
 }
 
 .cards {
-  -ms-align-items: center;
-  align-items: center;
+  /*-ms-align-items: center;
+  align-items: center;*/
   text-align: center;
   width: 100%;
-  -webkit-flex-flow: column wrap;
-  -moz-flex-flow: column wrap;
-  -ms-flex-flow: column wrap;
-  -o-flex-flow: column wrap;
-  flex-flow: column wrap;
+  -webkit-flex-flow: row wrap;
+  -moz-flex-flow: row wrap;
+  -ms-flex-flow: row wrap;
+  -o-flex-flow: row wrap;
+  flex-flow: row wrap;
 }
 
 .card {
-  justify-content: space-between;
   flex-direction: column;
   min-width: 150px;
+  max-width: 200px;
   min-height: 150px;
-  width: 100%;
+  width: 15%;
   -webkit-flex: 1 2 auto;
   -moz-flex: 1 2 auto;
   -ms-flex: 1 2 auto;
@@ -68,11 +73,20 @@ section,
   box-shadow: 0 3px 9px rgba(0,0,0,0.12), 0 3px 6px rgba(0,0,0,0.24);
 }
 
-.title {
-  width: 100%;
-  height: 30%;
+.section,
+.project,
+.description {
+  align-items: center;
   margin: 0;
+}
+
+.project {
+  height: 40%;
   background-color: #e0e0e0;
+}
+
+.description {
+  height: 60%;
 }
 
 @media only screen and (max-width: 1024px) {
