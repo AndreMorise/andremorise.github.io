@@ -4,6 +4,10 @@ body {
   color: #5CB85C;
 }
 
+header {
+  text-align: center;
+}
+
 main,
 .cards,
 .card {
