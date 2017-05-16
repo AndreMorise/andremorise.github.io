@@ -55,7 +55,7 @@ section {
 }
 
 .card {
-  margin: 3px 2px;
+  margin: 5px;
   flex-direction: column;
   min-width: 270px;
   width: 15%;
@@ -107,7 +107,7 @@ section {
   border-radius: 0 0 5px 5px;
 }
 
-@media only screen and (max-width: 1539px) {
+@media only screen and (max-width: 1572px) {
   .card:last-child {
     max-width: 50%;
   }
@@ -119,7 +119,7 @@ section {
   }
 }
 
-@media only screen and (max-width: 930px) {
+@media only screen and (max-width: 950px) {
   .card:last-child {
     max-width: 100%;
   }
