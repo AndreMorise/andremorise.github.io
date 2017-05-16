@@ -77,7 +77,7 @@ section {
 }
 
 .card:hover .project {
-  height: 35%;
+  height: 38%;
   background-color: #5CB85C;
   color: #eee;
   border-top: 1px solid #5CB85C;
@@ -86,7 +86,7 @@ section {
 }
 
 .card:hover .description {
-  height: 65%;
+  height: 62%;
   border-right: 1px solid #5CB85C;
   border-bottom: 1px solid #5CB85C;
   border-left: 1px solid #5CB85C;
@@ -101,14 +101,14 @@ section {
 
 .project {
   font-size: 18px;
-  height: 40%;
+  height: 35%;
   background-color: #e0e0e0;
   border-radius: 5px 5px 0 0;
   transition: all 0.3s ease;
 }
 
 .description {
-  height: 60%;
+  height: 65%;
   background-color: #fafafa;
   border-radius: 0 0 5px 5px;
   transition: all 0.3s ease;
