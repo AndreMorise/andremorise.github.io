@@ -182,13 +182,13 @@ section {
   height: 105px;
 }
 
-.card:hover .project {
+.card:hover > .project {
   height: 50px;
   background-color: #5CB85C;
   color: #eee;
 }
 
-.card:hover .description {
+.card:hover > .description {
   height: 100px;
 }
 
